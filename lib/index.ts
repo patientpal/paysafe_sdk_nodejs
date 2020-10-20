@@ -24,6 +24,7 @@ import { Pagination } from './cardpayments/pagination'
 import { Refund, RefundStatus } from './cardpayments/refund'
 import { Settlement } from './cardpayments/settlement'
 import { ShippingDetails } from './cardpayments/shippingDetails'
+import { SplitPay } from './cardpayments/splitpay'
 import { Verification } from './cardpayments/verification'
 import { VisaAdditionalAuthData } from './cardpayments/visaAdditionalAuthData'
 import { CardServiceHandler } from './CardServiceHandler'
@@ -70,6 +71,7 @@ export {
   Refund, RefundStatus,
   Settlement,
   ShippingDetails,
+  SplitPay,
   Verification,
   VisaAdditionalAuthData,
   Address,
