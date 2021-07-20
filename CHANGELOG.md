@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/gettilled/paysafe_sdk_nodejs/compare/v1.10.0...v1.10.1) (2021-07-20)
+
+
+### Bug Fixes
+
+* empty commit to force version update ([68ef384](https://github.com/gettilled/paysafe_sdk_nodejs/commit/68ef38468c11d9b6db9e28718db051a6bc0d6fd7))
+
 # [1.10.0](https://github.com/gettilled/paysafe_sdk_nodejs/compare/v1.9.1...v1.10.0) (2021-06-30)
 
 
